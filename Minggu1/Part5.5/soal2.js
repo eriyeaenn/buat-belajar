@@ -56,3 +56,11 @@ switch ((bulan = 1)) {
     console.log(`${tanggal}, "Desember", ${tahun}`);
     break;
 }
+//mulai
+//algoritma
+//buat 3 variabel untuk menampung tanggal bulan dan tahun
+//gunakan metode switch case
+//untuk mengisi variabel bulan isi di dalam kondisi switch 1 - 12
+//tiap case di beri output tanggal bulan dan tahun
+//untuk output bulan di beri output berbeda di tiap casenya
+//selesai

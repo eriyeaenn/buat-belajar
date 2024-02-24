@@ -21,9 +21,9 @@
 //isi variabel nama dan peran berisi ksatria, tabib dan penyihir
 //gunakan metode if else untuk nama
 //jika nama kosong tampilan output berupa : nama wajib diisi!!
+//jika peran kosong tampilan output berupa : "tapi kayaknya kamu jadi bot aja ya, peran yang kamu pilih ga ada"
 //gunakan if else bersarang di if yang berisi peran ksatria, tabib dan penyihir
 //tampilkan output berupa variabel nama yang sudah di isi dan peran yang sudah diisi
-//jika peran kosong tampilan output berupa : "tapi kayaknya kamu jadi bot aja ya, peran yang kamu pilih ga ada"
 
 let nama = "riyan";
 let peran = "ksatria";
